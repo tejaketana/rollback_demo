@@ -1,4 +1,4 @@
-name: Publish
+name: rollback publish
 
 on:
   push:
